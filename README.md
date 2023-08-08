@@ -1,4 +1,8 @@
 <div align="center">
+  <h1>DEVELOPMENT WAS MOVED TO <a href="https://github.com/Sarrus1/sourcepawn-vscode/">A MONO REPO.</a></h1>
+</div>
+
+<div align="center">
   <h1><code>SourcePawn Language Server</code></h1>
   <p>
     <strong>Language Server Protocol implementation for the SourcePawn programming language written in Rust</strong>
